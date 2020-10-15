@@ -48,8 +48,7 @@ function copiaSeguridad() {
     fi
 }
 
-#actualizarSistema
-#copiaSeguridad
-
+actualizarSistema
+copiaSeguridad
 
 sudo dpkg -i ~/plex/plex-server.deb
