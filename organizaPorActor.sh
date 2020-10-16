@@ -6,7 +6,7 @@
 # Recorre la $UBICACION recuperando uno a uno el nombre de los actores/actrices
 # Luego busca coincidencias en los nombres de archivo ubicados en $ARCHIVOS
 
-## Creo que había una versión más completa que movía los resultados a otra ubicación.
+## Debo comprobar si esta función no está ya incluida en 'pelis.sh'.
 
 ## VARIABLES ##
 
